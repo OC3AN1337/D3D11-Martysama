@@ -44,8 +44,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mimalloc", "..\Extern\mimal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkiTS", "..\Extern\enkiTS\enkiTS.vcxproj", "{7F2E0B8C-4A91-4D2E-9B3F-8C1A5D9E0F02}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assimp_mesh", "assimp_mesh\assimp_mesh.vcxproj", "{30455070-391D-4D31-8501-1FD1869E3D83}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
